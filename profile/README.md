@@ -32,3 +32,4 @@ To license a repository in the NorthbitHQ organization, follow the instructions 
 ## Contributing
 
 Contributions to our shared resources are welcome. If you have an idea for a new template or a change to an existing one, please open an issue to discuss it.
+
