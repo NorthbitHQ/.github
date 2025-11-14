@@ -34,7 +34,7 @@ This section provides a comprehensive overview of all license types available wi
 - ✅ Distribution
 - ✅ Private use
 
-**License File:** [`licenses/LICENSE-PUBLIC.md`](./licenses/LICENSE-PUBLIC.md)
+**License File:** [licenses/LICENSE-PUBLIC.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-PUBLIC.md)
 
 **How to Use in Your Repository:**
 ```
@@ -55,7 +55,7 @@ See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/li
 - ❌ Commercial use
 - ❌ Distribution without license
 
-**License File:** [`licenses/LICENSE-SOURCE-AVAILABLE.md`](./licenses/LICENSE-SOURCE-AVAILABLE.md)
+**License File:** [licenses/LICENSE-SOURCE-AVAILABLE.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-SOURCE-AVAILABLE.md)
 
 **How to Use in Your Repository:**
 ```
@@ -75,7 +75,7 @@ See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/li
 - ❌ Distribution
 - ⚠️ Internal use only
 
-**License File:** [`licenses/LICENSE-CONFIDENTIAL.md`](./licenses/LICENSE-CONFIDENTIAL.md)
+**License File:** [licenses/LICENSE-CONFIDENTIAL.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-CONFIDENTIAL.md)
 
 **How to Use in Your Repository:**
 ```
@@ -97,7 +97,7 @@ See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/li
 - ⚠️ Must disclose source
 - ⚠️ Must use same license
 
-**License File:** [`licenses/LICENSE-COPYLEFT.md`](./licenses/LICENSE-COPYLEFT.md)
+**License File:** [licenses/LICENSE-COPYLEFT.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-COPYLEFT.md)
 
 **How to Use in Your Repository:**
 ```
