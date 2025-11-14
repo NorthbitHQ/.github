@@ -8,6 +8,7 @@
   </a>
 </div>
 <br><br>
+
 # NorthbitHQ's .github Repository
 
 This repository centralizes standardized files and configurations for all projects under the NorthbitHQ organization. It ensures consistency and streamlines our development processes.
