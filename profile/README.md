@@ -4,32 +4,26 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://northbit.ca/northbit-logo-dark.png">
       <img alt="Northbit Logo" src="https://northbit.ca/northbit-logo.png" height="64">
     </picture>
-
   </a>
 </div>
 <br><br>
 
-# NorthbitHQ's .github Repository
+# Welcome to NorthbitHQ on GitHub
 
-This repository centralizes standardized files and configurations for all projects under the NorthbitHQ organization. It ensures consistency and streamlines our development processes.
+Welcome to the official GitHub organization for **Northbit** ([northbit.ca](https://northbit.ca)).
 
-## Organization-Wide Files
+Northbit is dedicated to building robust, scalable, and innovative software solutions. This organization hosts our open-source projects, internal tooling, and shared resources for the Northbit community and partners.
 
-This repository is the single source of truth for our shared standards. Key files include:
+---
 
--   **`LICENSE.md`**: The **main policy document** that explains how to license a repository and provides references to the full license texts.
--   **License Texts**:
-    -   `LICENSE-PUBLIC.md`: Full text of the MIT License for open-source projects.
-    -   `LICENSE-SOURCE-AVAILABLE.md`: Full text of our source-available license.
-    -   `LICENSE-CONFIDENTIAL.md`: Full text of our confidential/proprietary license.
-    -   `LICENSE-COPYLEFT.md`: Full text of the GNU GPLv3 for copyleft projects.
--   **Future Files**: Issue templates, pull request templates, and contribution guidelines will be added here.
+## Licensing
 
-## How to License a Repository
-
-To license a repository in the NorthbitHQ organization, follow the instructions in **[LICENSE.md](LICENSE.md)**.
+Most repositories in this organization are licensed under open-source or source-available licenses. Please refer to the specific `LICENSE.md` file in each repository for details. For organization-wide license policies and full license texts, see our [licenses directory](https://github.com/NorthbitHQ/.github/tree/main/licenses).
 
 ## Contributing
 
-Contributions to our shared resources are welcome. If you have an idea for a new template or a change to an existing one, please open an issue to discuss it.
+We welcome contributions, feedback, and collaboration! Please review our [CONTRIBUTING guidelines](https://github.com/NorthbitHQ/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/NorthbitHQ/.github/blob/main/CODE_OF_CONDUCT.md) before participating.
 
+---
+
+For more information, visit [northbit.ca](https://northbit.ca) or contact us at [info@northbit.ca](mailto:info@northbit.ca).
