@@ -12,124 +12,33 @@
 
 This repository governs the overall licensing policies for the NorthbitHQ GitHub organization.
 
-## How Licensing Works in Our Organization
+## Canonical License Reference
 
-Each repository within the NorthbitHQ organization contains a `LICENSE` file that specifies the exact terms and conditions applicable to its codebase.
+All licensing details, categories, and full license texts for NorthbitHQ projects are now maintained centrally at:
 
----
+**[https://northbit.ca/licenses/LICENSE.html](https://northbit.ca/licenses/LICENSE.html)**
 
-# License Portfolio & Navigation
-
-This section provides a comprehensive overview of all license types available within the NorthbitHQ organization. Each repository should reference one of these licenses.
-
-## Available Licenses
-
-### 1. 📖 Public (Open Source) - MIT License
-
-**Use Case:** For projects intended to be freely used, modified, and shared by anyone.
-
-**Permissions:**
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-
-**License File:** [licenses/LICENSE-PUBLIC.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-PUBLIC.md)
-
-**How to Use in Your Repository:**
-```
-This project is licensed under the MIT License.
-See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-PUBLIC.md
-```
-
----
-
-### 2. 👁️ Source-Available
-
-**Use Case:** For projects where source code is visible for transparency and review, but usage is restricted to non-commercial purposes.
-
-**Permissions:**
-- ✅ View source code
-- ✅ Fork for personal use
-- ✅ Educational purposes
-- ❌ Commercial use
-- ❌ Distribution without license
-
-**License File:** [licenses/LICENSE-SOURCE-AVAILABLE.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-SOURCE-AVAILABLE.md)
-
-**How to Use in Your Repository:**
-```
-This project is licensed under the NorthbitHQ Source-Available License.
-See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-SOURCE-AVAILABLE.md
-```
-
----
-
-### 3. 🔒 Confidential (Proprietary)
-
-**Use Case:** For internal, private, or proprietary projects where no usage rights are granted to the public.
-
-**Permissions:**
-- ❌ Public use
-- ❌ Modification
-- ❌ Distribution
-- ⚠️ Internal use only
-
-**License File:** [licenses/LICENSE-CONFIDENTIAL.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-CONFIDENTIAL.md)
-
-**How to Use in Your Repository:**
-```
-This project is proprietary and confidential to NorthbitHQ.
-See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-CONFIDENTIAL.md
-```
-
----
-
-### 4. 🔄 Copyleft (Share-Alike) - GNU GPLv3
-
-**Use Case:** For projects that require derivative works to be licensed under the same or a compatible open-source license.
-
-**Permissions:**
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Patent use
-- ⚠️ Must disclose source
-- ⚠️ Must use same license
-
-**License File:** [licenses/LICENSE-COPYLEFT.md](https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-COPYLEFT.md)
-
-**How to Use in Your Repository:**
-```
-This project is licensed under the GNU GPLv3 License.
-See the full license text at: https://github.com/NorthbitHQ/.github/blob/main/licenses/LICENSE-COPYLEFT.md
-```
+Please refer to this URL for the most up-to-date and authoritative licensing information for all NorthbitHQ repositories.
 
 ---
 
 ## How to License Your Repository
 
-1. **Choose a License:** Select the license category that best fits your project from the list above.
-2. **Create a LICENSE File:** In the root of your repository, create a `LICENSE` file.
-3. **Add the Reference:** Copy the "How to Use" text for your chosen license into your `LICENSE` file.
-4. **Update README:** Optionally, add a license badge or section to your repository's README.
+1. **Visit the Canonical License Page:**
+   - Go to [https://northbit.ca/licenses/LICENSE.html](https://northbit.ca/licenses/LICENSE.html)
+2. **Choose a License:**
+   - Select the license category that best fits your project from the options listed on the page.
+3. **Create a LICENSE File:**
+   - In the root of your repository, create a `LICENSE` file.
+4. **Add the Reference:**
+   - Add the following line to your `LICENSE` file:
+     ```
+     For full license details, see: https://northbit.ca/licenses/LICENSE.html
+     ```
+5. **Update README:**
+   - Optionally, add a license badge or section to your repository's README.
 
 ---
-
-## Need Help Choosing?
-
-| Project Type | Recommended License |
-|-------------|---------------------|
-| Public open-source tools, libraries | 📖 Public (MIT) |
-| Open-source with share-alike requirement | 🔄 Copyleft (GPLv3) |
-| Visible code, non-commercial use | 👁️ Source-Available |
-| Internal tools, proprietary software | 🔒 Confidential |
-
----
-
-## Contributions
-
-By contributing to any NorthbitHQ repository, you agree to license your contributions under the terms of that specific repository's license.
 
 ## Questions?
 
