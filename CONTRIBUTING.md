@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="https://northbit.ca">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://northbit.ca/northbit-logo-dark.png">
+      <img alt="Northbit Logo" src="https://northbit.ca/northbit-logo.png" height="64">
+    </picture>
+  </a>
+</div>
+<br><br>
+
 # Contributing to NorthbitHQ
 
 Thank you for your interest in contributing to NorthbitHQ! We welcome contributions from everyone. By participating in this project, you agree to abide by our Code of Conduct.
@@ -33,4 +43,3 @@ By contributing, you agree that your contributions will be licensed under the sa
 ---
 
 Thank you for helping us improve NorthbitHQ!
-
