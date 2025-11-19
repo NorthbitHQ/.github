@@ -8,7 +8,7 @@
 </div>
 <br><br>
 
-# Welcome to NorthbitHQ on GitHub
+# Welcome to Northbit on GitHub
 
 Welcome to the official GitHub organization for **Northbit** ([northbit.ca](https://northbit.ca)).
 
